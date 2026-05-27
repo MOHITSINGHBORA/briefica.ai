@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+:root {
+    --bg: #dedcdc;
+    --text: #000000;
+    --btn-bg: #2563eb;
+    --btn-hvr: #1551d3;
+    --input-bdr: #1e1f1f;
+     
+}
+
+:root.dark {
+    --bg: #191919;
+    --text: #ffffff;
+    --btn-bg: #3b82f6;
+    --btn-hvr: #1551d3;
+     --input-bdr: #dedcdc;
+      
+}
