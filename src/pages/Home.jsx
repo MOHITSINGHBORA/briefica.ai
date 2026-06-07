@@ -65,7 +65,7 @@ const Home = () => {
           ) : info.generatedComponent ? (
             info.generatedComponent
           ) : (
-            <p>Describe your component...</p>
+            <p>HEY! whats on your mind today...</p>
           )}
         </div>
       </div>

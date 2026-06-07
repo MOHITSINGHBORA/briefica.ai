@@ -16,7 +16,7 @@ const InputBar = ({value, onChange, onClick}) => {
     value={value}
     onChange={onChange}
     onKeyDown={handleKeyDown}
-    placeholder="what's on you mind"
+    placeholder="ask anything.."
     className='outline-none flex-1 text-(--text)'
     />
     <Button onClick={onClick}/>
